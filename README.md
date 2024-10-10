@@ -1,5 +1,6 @@
 # HeckBot
 A sharded Discord bot that reports the current and upcoming quests, and tracks shield timers for the mobile game, Kingdoms of Heckfire.
+<H1>**UPDATE** October 3rd, 2024</H1>
 
 <H1>**UPDATE** March 3rd, 2020</H1>
 Since I haven't played this game in a long time, I am no longer keeping up with updates and this bot is no longer useful.  As of today, I have decided that the resources allocated to host it would be better served elsewhere. 
